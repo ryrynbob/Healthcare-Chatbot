@@ -32,6 +32,13 @@ The chatbot uses a hybrid architecture built around a custom dialogue management
 
 You must have Python (3.8+) installed.
 
+### Project Files
+File Name,Description
+app.py,"Contains all the core logic: model loading, dialogue management, retrieval, generation, and the Gradio UI setup."
+healthcare_data.json,The source knowledge base (KB) containing 50+ non-diagnostic Q&A pairs.
+faq.index,"The binary file storing the FAISS vector index, created from the KB for fast semantic search."
+Final_Report.pdf,"The final submission document containing the architecture, evaluation results (20+ tests), and error analysis."
+
 ### Installation
 
 Clone the repository and install the required libraries:
