@@ -34,8 +34,11 @@ You must have Python (3.8+) installed.
 
 ### Project Files
 **app.py**: Contains all the core logic, like model loading, dialogue management, retrieval, and generation, and the Gradio UI setup.
+
 **healthcare_data.json**: The source knowledge base (KB) containing 50+ non-diagnostic Q&A pairs.
+
 **faq.index**: The binary file storing the FAISS vector index, created from the KB for fast semantic search.
+
 **Final_Report.pdf**: The final submission document containing the architecture, evaluation results (20+ tests), and error analysis.
 
 **Warning**: File naming conventions may vary depending on what is submitted.
@@ -44,6 +47,7 @@ You must have Python (3.8+) installed.
 ### Execution
 **Step 1** Prepare the Knowledge Base Index
 Before running the application, you must run the script (which will be part of app.py or a separate build_index.py) to generate the FAISS vector index from the healthcare_data.json file.
+
 **Step 2** Run the chatbot
 Execute the main application file to launch the Gradio web interface
 
