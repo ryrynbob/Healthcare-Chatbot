@@ -1,1 +1,27 @@
-
+[
+    {
+        "id": "faq_01",
+        "question": "What is a balanced diet and why is it important?",
+        "answer": "A balanced diet includes a variety of foods from all food groups, supplying the necessary nutrients (protein, carbs, fats, vitamins, minerals, and water) for your body to function correctly. It helps maintain a healthy weight and supports energy levels."
+    },
+    {
+        "id": "faq_02",
+        "question": "How much water should I drink per day?",
+        "answer": "The general recommendation is about 8 glasses (64 ounces) per day, but this varies based on your body weight, activity level, and climate. Listen to your body and drink whenever you feel thirsty."
+    },
+    {
+        "id": "faq_03",
+        "question": "What are the benefits of regular exercise?",
+        "answer": "Regular exercise boosts mood, strengthens bones and muscles, reduces the risk of chronic diseases (like heart disease and type 2 diabetes), and helps manage weight."
+    },
+    {
+        "id": "faq_04",
+        "question": "What is the recommended amount of sleep for an adult?",
+        "answer": "Most adults need between 7 and 9 hours of quality sleep per night for optimal health and cognitive function."
+    },
+    {
+        "id": "faq_50_or_more",
+        "question": "What is the difference between aerobic and anaerobic exercise?",
+        "answer": "Aerobic exercise (like running or swimming) uses oxygen to generate energy and can be sustained for a long time. Anaerobic exercise (like sprinting or weightlifting) involves short bursts of intense activity without using oxygen."
+    }
+]
