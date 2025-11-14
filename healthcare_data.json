@@ -1,27 +1,252 @@
 [
-    {
-        "id": "faq_01",
-        "question": "What is a balanced diet and why is it important?",
-        "answer": "A balanced diet includes a variety of foods from all food groups, supplying the necessary nutrients (protein, carbs, fats, vitamins, minerals, and water) for your body to function correctly. It helps maintain a healthy weight and supports energy levels."
-    },
-    {
-        "id": "faq_02",
-        "question": "How much water should I drink per day?",
-        "answer": "The general recommendation is about 8 glasses (64 ounces) per day, but this varies based on your body weight, activity level, and climate. Listen to your body and drink whenever you feel thirsty."
-    },
-    {
-        "id": "faq_03",
-        "question": "What are the benefits of regular exercise?",
-        "answer": "Regular exercise boosts mood, strengthens bones and muscles, reduces the risk of chronic diseases (like heart disease and type 2 diabetes), and helps manage weight."
-    },
-    {
-        "id": "faq_04",
-        "question": "What is the recommended amount of sleep for an adult?",
-        "answer": "Most adults need between 7 and 9 hours of quality sleep per night for optimal health and cognitive function."
-    },
-    {
-        "id": "faq_50_or_more",
-        "question": "What is the difference between aerobic and anaerobic exercise?",
-        "answer": "Aerobic exercise (like running or swimming) uses oxygen to generate energy and can be sustained for a long time. Anaerobic exercise (like sprinting or weightlifting) involves short bursts of intense activity without using oxygen."
-    }
+  {
+    "id": "faq_01",
+    "question": "What is the cardiovascular system?",
+    "answer": "The cardiovascular system includes your heart and blood vessels. Its main job is to pump blood, delivering oxygen and nutrients to your body and carrying away waste products. Keeping it healthy lowers the risk of heart disease and stroke."
+  },
+  {
+    "id": "faq_02",
+    "question": "What is high blood pressure?",
+    "answer": "High blood pressure, or hypertension, means the force of blood pushing against your artery walls is consistently too high. Over time, it can damage blood vessels and organs and increase the risk of heart attack, stroke, and kidney disease. Only a healthcare professional can diagnose it using repeated blood pressure readings."
+  },
+  {
+    "id": "faq_03",
+    "question": "What is the difference between systolic and diastolic blood pressure?",
+    "answer": "Systolic pressure is the top number and measures the pressure in your arteries when the heart beats. Diastolic pressure is the bottom number and measures the pressure when the heart relaxes between beats. Both numbers are important for assessing heart health."
+  },
+  {
+    "id": "faq_04",
+    "question": "What are common risk factors for heart disease?",
+    "answer": "Common risk factors include high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, a diet high in saturated fat and salt, excessive alcohol use, and a family history of heart disease. A healthcare provider can help you understand your personal risk."
+  },
+  {
+    "id": "faq_05",
+    "question": "What are beta-blockers and how do they work?",
+    "answer": "Beta-blockers are a class of heart medication that reduce the effects of stress hormones like adrenaline. They slow the heart rate and lower blood pressure, which helps the heart work more efficiently. They are often used for conditions such as high blood pressure, certain heart rhythm problems, and heart failure. Only a doctor can decide if they are appropriate for you."
+  },
+  {
+    "id": "faq_06",
+    "question": "What are ACE inhibitors used for?",
+    "answer": "ACE inhibitors (angiotensin-converting enzyme inhibitors) relax blood vessels by blocking a hormone that narrows them. This helps lower blood pressure and can reduce strain on the heart. They are commonly prescribed for high blood pressure, heart failure, and protection of the kidneys in some people with diabetes."
+  },
+  {
+    "id": "faq_07",
+    "question": "What is an ARB medication?",
+    "answer": "ARB stands for angiotensin II receptor blocker. These medicines block the action of a hormone that tightens blood vessels, helping them relax and lowering blood pressure. They are another option for treating high blood pressure and some heart conditions, especially if someone cannot tolerate an ACE inhibitor."
+  },
+  {
+    "id": "faq_08",
+    "question": "What are statins and why are they prescribed?",
+    "answer": "Statins are medications that lower LDL (\"bad\") cholesterol by reducing its production in the liver. Lowering LDL can reduce the risk of heart attack and stroke, especially in people who have heart disease or are at high risk. Your healthcare provider will decide if a statin is appropriate based on your risk factors and blood tests."
+  },
+  {
+    "id": "faq_09",
+    "question": "What are common side effects of statins?",
+    "answer": "Common side effects of statins can include muscle aches, mild digestive issues, and headache. Rarely, they can affect the liver or cause more serious muscle problems. If you take a statin and notice unusual muscle pain, dark urine, yellowing of the skin, or other concerning symptoms, contact your healthcare provider promptly."
+  },
+  {
+    "id": "faq_10",
+    "question": "What is aspirin used for in heart health?",
+    "answer": "Low-dose aspirin is sometimes used to help prevent blood clots that can lead to heart attacks or strokes. However, aspirin also increases the risk of bleeding. Because of this, it should only be taken for heart protection if specifically recommended by a healthcare professional based on your personal risks and benefits."
+  },
+  {
+    "id": "faq_11",
+    "question": "What are blood thinners?",
+    "answer": "Blood thinners, also called anticoagulants, are medications that reduce the blood's ability to clot. They don’t actually make the blood thinner, but they help prevent dangerous clots that can cause strokes, heart attacks, or clots in the legs or lungs. Common examples include warfarin and newer oral anticoagulants. These medicines require careful monitoring and must be taken exactly as prescribed."
+  },
+  {
+    "id": "faq_12",
+    "question": "What are common side effects of blood thinners?",
+    "answer": "Because blood thinners reduce clotting, their main side effect is an increased risk of bleeding. This can show up as easy bruising, nosebleeds, bleeding gums, or more serious internal bleeding. If you are on a blood thinner and experience heavy bleeding, coughing or vomiting blood, black or bloody stools, or a sudden severe headache, seek emergency medical help immediately."
+  },
+  {
+    "id": "faq_13",
+    "question": "What are calcium channel blockers?",
+    "answer": "Calcium channel blockers are medications that relax blood vessels and sometimes slow the heart rate by affecting calcium movement in heart and vessel cells. They can help lower blood pressure, treat certain chest pain (angina), and manage some heart rhythm problems. Only a healthcare provider can determine if one is appropriate for you."
+  },
+  {
+    "id": "faq_14",
+    "question": "What are diuretics and how do they help the heart?",
+    "answer": "Diuretics, often called \"water pills,\" help your body get rid of extra fluid and salt through urine. This can reduce swelling and lower blood pressure, decreasing the workload on the heart. They are often used in heart failure and high blood pressure. Your healthcare provider may monitor your electrolytes and kidney function while you take them."
+  },
+  {
+    "id": "faq_15",
+    "question": "What lifestyle changes can support heart health?",
+    "answer": "Heart-healthy habits include eating a balanced diet rich in fruits, vegetables, whole grains, lean protein, and healthy fats; limiting salt, added sugar, and saturated fats; staying physically active most days of the week; not smoking; getting enough sleep; and managing stress. These lifestyle steps complement, but do not replace, medical treatment."
+  },
+  {
+    "id": "faq_16",
+    "question": "How much exercise is generally recommended for heart health?",
+    "answer": "Many guidelines suggest aiming for at least 150 minutes per week of moderate-intensity aerobic activity, like brisk walking, spread over several days, plus muscle-strengthening activities on two or more days. However, people with heart or other medical conditions should talk with their healthcare provider before starting or changing an exercise program."
+  },
+  {
+    "id": "faq_17",
+    "question": "What is a heart-healthy diet?",
+    "answer": "A heart-healthy diet focuses on plenty of fruits, vegetables, whole grains, beans, nuts, and healthy fats like olive oil, while limiting processed foods, sugary drinks, red and processed meats, and foods high in salt and saturated fat. Examples include Mediterranean-style or DASH-style eating patterns."
+  },
+  {
+    "id": "faq_18",
+    "question": "Can I stop my heart medication if I feel better?",
+    "answer": "You should not stop or change the dose of heart medications on your own, even if you feel better. Some medicines need to be continued long term, and stopping suddenly can be dangerous. Always talk to your prescribing doctor or pharmacist before making any changes to your medication plan."
+  },
+  {
+    "id": "faq_19",
+    "question": "What should I do if I forget to take a dose of my heart medicine?",
+    "answer": "General guidance is to take a missed dose as soon as you remember unless it is almost time for your next dose. In that case, skip the missed dose and return to your usual schedule. Do not double up doses unless your healthcare provider specifically instructs you to. For exact instructions, follow your prescription label or ask your pharmacist or doctor."
+  },
+  {
+    "id": "faq_20",
+    "question": "Why is it important to take heart medications at the same time each day?",
+    "answer": "Taking heart medications at the same time each day helps keep a steady level of the drug in your body, which can improve effectiveness and reduce side effects. It also helps you build a routine so you are less likely to miss doses."
+  },
+  {
+    "id": "faq_21",
+    "question": "Can heart medications interact with over-the-counter drugs or supplements?",
+    "answer": "Yes. Many heart medications can interact with over-the-counter pain relievers, cold medicines, herbal products, or dietary supplements. Some interactions can change how well the medicine works or increase side effects. Always check with a pharmacist or healthcare provider before starting new over-the-counter products or supplements."
+  },
+  {
+    "id": "faq_22",
+    "question": "What are signs of a possible serious reaction to heart medication?",
+    "answer": "Warning signs can include difficulty breathing, swelling of the face or throat, severe rash, chest pain, fainting, extreme dizziness, or sudden confusion. These may indicate an allergic reaction or other serious problem. If you experience these, seek emergency medical care immediately."
+  },
+  {
+    "id": "faq_23",
+    "question": "What is heart failure?",
+    "answer": "Heart failure means the heart is not pumping blood as well as it should. It does not mean the heart has stopped, but that it struggles to meet the body's needs. Symptoms can include shortness of breath, swelling in the legs, and fatigue. Only a healthcare provider can diagnose heart failure using your symptoms, exam, and tests."
+  },
+  {
+    "id": "faq_24",
+    "question": "How do medications help in heart failure?",
+    "answer": "Medications for heart failure, such as ACE inhibitors, beta-blockers, diuretics, and others, can help the heart pump more efficiently, reduce fluid buildup, and improve symptoms. They can also lower the risk of hospitalizations and complications over time when taken as prescribed."
+  },
+  {
+    "id": "faq_25",
+    "question": "What are common symptoms of a heart attack?",
+    "answer": "Symptoms can include chest discomfort or pain that may feel like pressure, squeezing, or fullness; pain in the arm, jaw, neck, back, or stomach; shortness of breath; nausea; cold sweat; or lightheadedness. Symptoms can differ between people. If you think you or someone else might be having a heart attack, call emergency services immediately."
+  },
+  {
+    "id": "faq_26",
+    "question": "What is angina?",
+    "answer": "Angina is chest discomfort or pain that happens when the heart muscle doesn’t get enough oxygen-rich blood. It often feels like pressure or squeezing in the chest and may occur with activity or stress. Angina is a symptom of an underlying heart problem and should always be evaluated by a healthcare provider."
+  },
+  {
+    "id": "faq_27",
+    "question": "What is atrial fibrillation (AFib)?",
+    "answer": "Atrial fibrillation is a common heart rhythm disorder where the upper chambers of the heart beat irregularly and often quickly. This can cause symptoms like palpitations, fatigue, or shortness of breath, and it increases the risk of stroke. Diagnosis and treatment must be guided by a healthcare professional."
+  },
+  {
+    "id": "faq_28",
+    "question": "Why might someone with atrial fibrillation need a blood thinner?",
+    "answer": "In atrial fibrillation, irregular heartbeats can cause blood to pool and form clots in the heart. If a clot travels to the brain, it can cause a stroke. Blood thinners help reduce the risk of these clots forming. Only a healthcare provider can decide if a blood thinner is appropriate and which type should be used."
+  },
+  {
+    "id": "faq_29",
+    "question": "Can stress affect heart health?",
+    "answer": "Yes. Chronic stress can contribute to high blood pressure and unhealthy coping habits, like overeating, smoking, or drinking too much alcohol. Over time, these factors can increase the risk of heart disease. Relaxation techniques, regular physical activity, social support, and professional counseling can all help manage stress."
+  },
+  {
+    "id": "faq_30",
+    "question": "How does smoking affect the heart?",
+    "answer": "Smoking damages the lining of blood vessels, raises blood pressure, lowers good HDL cholesterol, and makes blood more likely to clot. These effects greatly increase the risk of heart attack and stroke. Quitting smoking is one of the most powerful steps a person can take to improve heart health."
+  },
+  {
+    "id": "faq_31",
+    "question": "How does alcohol consumption affect heart health?",
+    "answer": "Heavy drinking can raise blood pressure, weaken the heart muscle, trigger rhythm problems, and increase the risk of stroke and other health issues. If you drink, most guidelines suggest doing so in moderation, if at all. People with certain heart conditions or on specific medications may be advised to avoid alcohol completely. Always follow your healthcare provider’s advice."
+  },
+  {
+    "id": "faq_32",
+    "question": "What is cholesterol and why does it matter for the heart?",
+    "answer": "Cholesterol is a waxy substance in your blood. Your body needs some cholesterol, but high levels of LDL (\"bad\") cholesterol can build up in artery walls and form plaques, increasing the risk of heart attack and stroke. HDL (\"good\") cholesterol helps remove LDL from the bloodstream. Diet, exercise, and medications like statins can help manage cholesterol levels."
+  },
+  {
+    "id": "faq_33",
+    "question": "Can heart medications cause fatigue?",
+    "answer": "Some heart medications, such as beta-blockers, can make some people feel more tired, especially when they first start or when the dose changes. Sometimes this improves over time as the body adjusts. If fatigue is severe or persistent, talk to your healthcare provider about it—do not stop medication on your own."
+  },
+  {
+    "id": "faq_34",
+    "question": "What is the role of a pharmacist in managing heart medications?",
+    "answer": "Pharmacists can explain how to take heart medications, review your prescriptions for potential interactions, help you manage side effects, and answer questions about refills and timing. They are an important part of your heart-care team along with your doctors and nurses."
+  },
+  {
+    "id": "faq_35",
+    "question": "Why is blood pressure monitoring at home useful?",
+    "answer": "Checking blood pressure at home gives additional information beyond occasional clinic visits. It can help your healthcare provider see how well treatments are working and detect patterns like morning spikes. Always use a validated device and follow your provider’s instructions on how often to check and how to record your readings."
+  },
+  {
+    "id": "faq_36",
+    "question": "Are generic heart medications as effective as brand-name ones?",
+    "answer": "In many countries, generic medications must meet strict standards to show they work the same way as brand-name drugs. For most people, generics are equally effective and safe, and they usually cost less. If you notice any changes when switching between brands or generics, discuss them with your healthcare provider or pharmacist."
+  },
+  {
+    "id": "faq_37",
+    "question": "Can I crush or split my heart medication tablets?",
+    "answer": "Some tablets can be safely split or crushed, but others, like extended-release or coated tablets, should not be altered because it can change how the medicine is absorbed. Always check the prescription label or ask a pharmacist or healthcare provider before splitting or crushing any medication."
+  },
+  {
+    "id": "faq_38",
+    "question": "How does diabetes affect heart health?",
+    "answer": "Over time, high blood sugar can damage blood vessels and the nerves that control the heart. People with diabetes have a higher risk of heart disease and stroke. Managing blood sugar, blood pressure, cholesterol, and lifestyle factors is important to lower this risk."
+  },
+  {
+    "id": "faq_39",
+    "question": "What role does sleep play in heart health?",
+    "answer": "Poor sleep or sleep disorders like sleep apnea are linked to higher risks of high blood pressure, obesity, and heart disease. Most adults benefit from 7–9 hours of quality sleep per night. If you snore loudly, stop breathing during sleep, or feel very sleepy during the day, talk to a healthcare provider."
+  },
+  {
+    "id": "faq_40",
+    "question": "Is chest pain always a sign of a heart attack?",
+    "answer": "Chest pain can have many causes, including heart, lung, digestive, or muscle conditions. However, because chest pain can be a sign of a heart attack, it should always be taken seriously. If chest pain is severe, lasts more than a few minutes, or is accompanied by shortness of breath, sweating, nausea, or pain in other areas, call emergency services right away."
+  },
+  {
+    "id": "faq_41",
+    "question": "Can herbal remedies or supplements replace heart medications?",
+    "answer": "Herbal products and supplements are not tested and regulated like prescription medications. Some may have benefits, but many have limited evidence, and some can interact dangerously with heart medications. They should not replace prescribed heart treatments. Always discuss supplements with your healthcare provider before starting them."
+  },
+  {
+    "id": "faq_42",
+    "question": "Why might my heart rate be lower when taking a beta-blocker?",
+    "answer": "Beta-blockers slow the heart rate by blocking the effects of stress hormones. A lower resting heart rate is expected for many people on these medications and can reduce the heart’s workload. However, if your heart rate is extremely low, you feel dizzy, faint, or unusually weak, contact your healthcare provider promptly."
+  },
+  {
+    "id": "faq_43",
+    "question": "Can dehydration affect my heart or blood pressure?",
+    "answer": "Yes. Dehydration can cause your blood pressure to drop and make your heart beat faster to maintain blood flow. It can also affect how some medications work. Drinking enough fluids is important, but people with certain heart or kidney conditions may need specific fluid limits, so always follow your provider’s advice."
+  },
+  {
+    "id": "faq_44",
+    "question": "How often should I see my healthcare provider if I have heart disease?",
+    "answer": "The frequency depends on your specific condition, how stable it is, and which treatments you are receiving. Some people may need visits every few months, while others may be seen more or less often. Your healthcare provider will recommend a follow-up schedule tailored to your needs."
+  },
+  {
+    "id": "faq_45",
+    "question": "What is cardiac rehabilitation?",
+    "answer": "Cardiac rehabilitation is a supervised program that combines monitored exercise, education on heart-healthy living, and counseling to reduce stress and support recovery. It is often recommended after a heart attack, heart surgery, or certain heart procedures. Participation can improve quality of life and reduce the risk of future heart problems."
+  },
+  {
+    "id": "faq_46",
+    "question": "What should I bring to a cardiology appointment?",
+    "answer": "It helps to bring a list of your current medications (including doses), any over-the-counter products or supplements, your recent blood pressure or blood sugar readings if you track them, and your symptoms or questions written down. This makes it easier for your provider to understand your situation and adjust your care plan."
+  },
+  {
+    "id": "faq_47",
+    "question": "Can caffeine affect my heart?",
+    "answer": "Caffeine can temporarily raise heart rate and blood pressure in some people and may trigger palpitations or feelings of a racing heart. Moderate intake is usually tolerated by many, but people with certain heart rhythm problems or sensitivity to caffeine may need to limit it. Your healthcare provider can give personalized guidance."
+  },
+  {
+    "id": "faq_48",
+    "question": "Why is medication adherence especially important for heart conditions?",
+    "answer": "For many heart conditions, medications help control blood pressure, prevent clots, support heart function, and reduce the risk of serious events like heart attacks or strokes. Missing doses or stopping treatment can allow problems to return or worsen, sometimes without noticeable symptoms at first."
+  },
+  {
+    "id": "faq_49",
+    "question": "What should I do if I experience new or worsening symptoms while on heart medication?",
+    "answer": "If you notice new symptoms—such as increased shortness of breath, swelling, chest discomfort, dizziness, or a rapid or irregular heartbeat—contact your healthcare provider to discuss them. For sudden or severe symptoms, such as intense chest pain or difficulty breathing, seek emergency medical help immediately."
+  },
+  {
+    "id": "faq_50",
+    "question": "Can this information replace medical advice from my doctor?",
+    "answer": "No. This information is for general educational purposes about heart health and medications. It cannot diagnose conditions or recommend specific treatments for individuals. Always talk to a qualified healthcare professional about your own health questions, symptoms, and medications."
+  }
 ]
