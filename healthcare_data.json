@@ -21,13 +21,13 @@
   },
   {
     "id": "faq_05",
-    "question": "What are beta-blockers and how do they work?",
-    "answer": "Beta-blockers are a class of heart medication that reduce the effects of stress hormones like adrenaline. They slow the heart rate and lower blood pressure, which helps the heart work more efficiently. They are often used for conditions such as high blood pressure, certain heart rhythm problems, and heart failure. Only a doctor can decide if they are appropriate for you."
+    "question": "What is the primary function of the heart?",
+    "answer": "The heart is a muscular organ that pumps blood throughout the body. This continuous circulation delivers oxygen and nutrients to tissues while removing waste products."
   },
   {
     "id": "faq_06",
-    "question": "What are ACE inhibitors used for?",
-    "answer": "ACE inhibitors (angiotensin-converting enzyme inhibitors) relax blood vessels by blocking a hormone that narrows them. This helps lower blood pressure and can reduce strain on the heart. They are commonly prescribed for high blood pressure, heart failure, and protection of the kidneys in some people with diabetes."
+    "question": "What does congestive heart failure mean?",
+    "answer": "Heart failure means the heart is not pumping blood as well as it should. It struggles to meet the body's needs. Symptoms can include shortness of breath and swelling. Only a healthcare provider can diagnose this condition."
   },
   {
     "id": "faq_07",
