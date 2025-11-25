@@ -52,14 +52,6 @@ Before running the application, you must run the script (which will be part of a
 Execute the main application file to launch the Gradio web interface
 
 
-### Installation
-
-Clone the repository and install the required libraries:
-
-```bash
-# Clone the repository
-
-
 ### Sources Used
 
 Heart.com
@@ -77,6 +69,13 @@ Mayo Clinic – Heart disease, high blood pressure, cholesterol, heart attack, h
 American Heart Association (AHA) – Heart disease and stroke prevention, cardiac rehab, lifestyle guidance
 
 U.S. National Library of Medicine / MedlinePlus (NIH) – Patient-friendly overviews of heart conditions and medications
+
+### Installation
+
+Clone the repository and install the required libraries:
+
+```bash
+# Clone the repository
 
 
 git clone [https://github.com/ryrynbob/Healthcare-Chatbot.git](https://github.com/ryrynbob/Healthcare-Chatbot.git)
