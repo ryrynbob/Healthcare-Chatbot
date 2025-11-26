@@ -498,5 +498,255 @@
     "id": "faq_100",
     "question": "Can this chatbot replace my cardiologist or primary care provider?",
     "answer": "No. This chatbot is designed to provide general heart-health education and to help you better understand terms, tests, and medications. It cannot diagnose conditions, interpret medical tests, or give personalized treatment recommendations. Your health situation may involve factors that cannot be fully captured in a brief question. Decisions about your care, including medication changes, tests, and procedures, should always be made with your cardiologist, primary care provider, or other qualified healthcare professionals who know your medical history and can provide individualized advice."
+  },
+  {
+    "id": "faq_101",
+    "question": "What is considered a healthy cholesterol level?",
+    "answer": "Cholesterol levels are typically evaluated by looking at several components: LDL ('bad' cholesterol), HDL ('good' cholesterol), and triglycerides. For many adults, a total cholesterol level below 200 mg/dL is considered desirable. However, what is 'healthy' for you specifically depends heavily on your other risk factors, such as age, family history, and existing heart conditions. It's best to discuss your specific target goals with your healthcare provider."
+  },
+  {
+    "id": "faq_102",
+    "question": "What is the difference between LDL and HDL cholesterol?",
+    "answer": "LDL (Low-Density Lipoprotein) is often called 'bad' cholesterol because a high level can lead to plaque buildup in your arteries, increasing heart disease risk. HDL (High-Density Lipoprotein) is considered 'good' cholesterol because it helps remove excess cholesterol from the arteries and carries it back to the liver for processing. Maintaining a low LDL and a high HDL level is beneficial for heart health."
+  },
+  {
+    "id": "faq_103",
+    "question": "What role do triglycerides play in heart health?",
+    "answer": "Triglycerides are the most common type of fat in the body, primarily stored for energy. High levels of triglycerides, especially when combined with high LDL or low HDL cholesterol, are linked to an increased risk of heart attack and stroke. Lifestyle changes like reducing sugar intake, limiting refined carbohydrates, and increasing physical activity are key strategies for managing triglyceride levels."
+  },
+  {
+    "id": "faq_104",
+    "question": "How does smoking affect the heart?",
+    "answer": "Smoking is one of the most significant risk factors for heart disease. The chemicals in tobacco smoke damage the lining of your arteries, causing plaque buildup (atherosclerosis) to speed up. It also reduces the oxygen carried by the blood, increases blood pressure, and makes blood more likely to clot. Quitting smoking is the single most important action you can take to lower your cardiovascular risk."
+  },
+  {
+    "id": "faq_105",
+    "question": "What is the recommended amount of exercise for heart health?",
+    "answer": "Most health organizations recommend at least 150 minutes of moderate-intensity aerobic activity (like brisk walking or swimming) per week, or 75 minutes of vigorous-intensity aerobic activity (like running). Additionally, muscle-strengthening activities should be done at least two days per week. It is important to remember that any amount of physical activity is better than none."
+  },
+  {
+    "id": "faq_106",
+    "question": "What are some examples of heart-healthy aerobic exercises?",
+    "answer": "Heart-healthy aerobic exercises are activities that increase your heart rate and breathing. Examples include brisk walking, jogging, cycling, swimming, jumping rope, and dancing. These activities help improve circulation, strengthen your heart muscle, and can lower blood pressure and cholesterol."
+  },
+  {
+    "id": "faq_107",
+    "question": "How does resistance training benefit cardiovascular health?",
+    "answer": "Resistance (or strength) training, such as lifting weights or doing bodyweight exercises, builds lean muscle mass. This is important for heart health because muscle burns more calories than fat, helping to maintain a healthy weight. It also improves glucose control, which reduces the risk associated with diabetes."
+  },
+  {
+    "id": "faq_108",
+    "question": "What is the DASH diet and how does it help the heart?",
+    "answer": "DASH stands for Dietary Approaches to Stop Hypertension. It is an eating plan designed to help lower or control high blood pressure. The diet emphasizes fruits, vegetables, whole grains, lean protein, and low-fat dairy, while limiting foods high in saturated fat, total fat, and cholesterol, and significantly reducing sodium intake."
+  },
+  {
+    "id": "faq_109",
+    "question": "What are the key components of the Mediterranean diet?",
+    "answer": "The Mediterranean diet is rich in plant-based foods, including fruits, vegetables, whole grains, legumes, and nuts. It emphasizes healthy fats like olive oil as the primary source of added fat, uses herbs and spices instead of salt, and includes fish and poultry in moderation, with red meat and sweets being rare. This pattern of eating is strongly associated with a lower risk of heart disease."
+  },
+  {
+    "id": "faq_110",
+    "question": "Why is reducing sodium intake important for the heart?",
+    "answer": "Reducing sodium (salt) intake is crucial because excess sodium can cause your body to retain fluid, which increases blood volume and, subsequently, blood pressure. Over time, high blood pressure puts strain on the heart and blood vessels. Limiting processed and pre-packaged foods is the best way to control sodium consumption."
+  },
+  {
+    "id": "faq_111",
+    "question": "What is cardiac rehabilitation?",
+    "answer": "Cardiac rehabilitation is a supervised program that includes exercise training, education on heart-healthy living (like diet and smoking cessation), and counseling to reduce stress and help you return to an active life after a heart event (like a heart attack or surgery). It is a crucial step for recovery and long-term risk reduction."
+  },
+  {
+    "id": "faq_112",
+    "question": "What does a cardiac stress test involve?",
+    "answer": "A cardiac stress test, or exercise tolerance test, shows how your heart works during physical activity. You usually walk on a treadmill or pedal a stationary bicycle while your heart rate, blood pressure, and electrical activity (ECG) are monitored. This helps doctors see if there is sufficient blood flow to your heart when it is working hard."
+  },
+  {
+    "id": "faq_113",
+    "question": "What is an EKG (Electrocardiogram)?",
+    "answer": "An EKG (also called ECG) is a simple, non-invasive test that records the electrical signals of your heart. It can show how fast your heart is beating and whether it has a normal rhythm. It is a common test used to check for signs of past heart attacks, current heart strain, or certain rhythm problems (arrhythmias)."
+  },
+  {
+    "id": "faq_114",
+    "question": "What is an echocardiogram?",
+    "answer": "An echocardiogram, often called an 'echo,' is a type of ultrasound test that uses sound waves to create moving pictures of your heart. It allows doctors to see the size and shape of your heart, how well your heart valves are working, and how strongly your heart muscle pumps blood. It is completely non-invasive and painless."
+  },
+  {
+    "id": "faq_115",
+    "question": "How is Type 2 Diabetes connected to heart disease?",
+    "answer": "People with Type 2 Diabetes are at a significantly higher risk for cardiovascular disease. High blood sugar levels over time can damage blood vessels and the nerves that control the heart. Managing blood sugar, blood pressure, and cholesterol together is essential for reducing heart risk in people with diabetes."
+  },
+  {
+    "id": "faq_116",
+    "question": "What is angina?",
+    "answer": "Angina is a type of chest pain, discomfort, or pressure caused by reduced blood flow to the heart muscle. It is a symptom of underlying coronary artery disease, usually felt when the heart needs more oxygen (like during exercise or emotional stress) than the narrowed arteries can supply. It is important to seek medical advice if you experience new or changing chest discomfort."
+  },
+  {
+    "id": "faq_117",
+    "question": "What is an arrhythmia?",
+    "answer": "An arrhythmia is an abnormal heart rhythm. This means the heart is beating too fast, too slow, or irregularly. Many arrhythmias are harmless, but some can be serious and may indicate an underlying heart condition that needs to be evaluated. Symptoms can include palpitations (a feeling of fluttering or pounding), shortness of breath, or dizziness."
+  },
+  {
+    "id": "faq_118",
+    "question": "What is atherosclerosis?",
+    "answer": "Atherosclerosis is a disease where plaque (a buildup of fat, cholesterol, calcium, and other substances) collects inside your arteries, making them stiff and narrow. This process restricts blood flow to the rest of the body, which can lead to problems like heart attack or stroke if the blood supply is completely blocked."
+  },
+  {
+    "id": "faq_119",
+    "question": "How does managing stress help prevent heart disease?",
+    "answer": "Chronic stress can raise levels of hormones like cortisol, which can increase heart rate and blood pressure, potentially damaging the artery walls over time. Stress management techniques like meditation, deep breathing, adequate sleep, and physical activity can help lower blood pressure and reduce the burden on your cardiovascular system."
+  },
+  {
+    "id": "faq_120",
+    "question": "Is snoring a risk factor for heart problems?",
+    "answer": "Loud, frequent snoring can be a sign of obstructive sleep apnea (OSA), a condition where breathing repeatedly stops and starts during sleep. OSA is strongly linked to high blood pressure, atrial fibrillation, stroke, and heart failure. If you snore loudly and frequently, especially if you feel tired during the day, you should consult a doctor."
+  },
+  {
+    "id": "faq_121",
+    "question": "How much saturated fat should I consume to protect my heart?",
+    "answer": "Experts recommend limiting saturated fats, which are primarily found in red meat, high-fat dairy products, and processed foods. For most people, the goal is to keep saturated fat intake to less than 7% of total daily calories. Replacing saturated fats with unsaturated fats (found in olive oil, nuts, and fish) can help lower bad cholesterol."
+  },
+  {
+    "id": "faq_122",
+    "question": "What are polyunsaturated and monounsaturated fats?",
+    "answer": "These are considered 'heart-healthy' fats. Monounsaturated fats are found in foods like avocados, nuts, and olive oil. Polyunsaturated fats are found in nuts, seeds, and fatty fish (like salmon). Both types can help lower LDL cholesterol levels when used to replace saturated and trans fats in the diet."
+  },
+  {
+    "id": "faq_123",
+    "question": "What are omega-3 fatty acids and where can I find them?",
+    "answer": "Omega-3 fatty acids are a type of polyunsaturated fat that can help reduce inflammation and lower the risk of heart disease. They are found in high concentrations in fatty fish such as salmon, mackerel, and trout, as well as in flaxseeds, walnuts, and chia seeds."
+  },
+  {
+    "id": "faq_124",
+    "question": "What is the purpose of a cardiac catheterization (cardiac cath)?",
+    "answer": "Cardiac catheterization is a procedure where a thin, flexible tube (catheter) is inserted into a blood vessel (usually in the arm or leg) and guided to the heart. It is used to diagnose heart conditions, such as measuring pressure and blood flow in the heart, or to take X-rays (angiograms) to visualize blockages in the coronary arteries."
+  },
+  {
+    "id": "faq_125",
+    "question": "What is the primary function of the coronary arteries?",
+    "answer": "The coronary arteries are the blood vessels that branch off the aorta and supply oxygen-rich blood directly to the heart muscle itself. If these arteries become narrowed or blocked, the heart muscle cannot get the oxygen it needs, leading to conditions like angina or a heart attack."
+  },
+  {
+    "id": "faq_126",
+    "question": "What is heart failure?",
+    "answer": "Heart failure (sometimes called congestive heart failure) is a chronic condition where the heart muscle is weakened and cannot pump enough blood to meet the body's needs. It does not mean the heart has stopped working, but that it is not working efficiently. Symptoms often include shortness of breath, fatigue, and swelling in the legs."
+  },
+  {
+    "id": "faq_127",
+    "question": "What is a heart murmur?",
+    "answer": "A heart murmur is an extra or unusual sound heard during a heartbeat, typically caused by turbulent blood flow through the heart valves. Many murmurs are 'innocent' (harmless), especially in children. However, some murmurs can indicate a problem with a heart valve that requires further evaluation by a healthcare professional."
+  },
+  {
+    "id": "faq_128",
+    "question": "How can managing my weight help my heart?",
+    "answer": "Maintaining a healthy weight reduces strain on your heart, lowers blood pressure, and improves cholesterol levels. Carrying extra weight, particularly around the waist, significantly increases the risk of heart disease, stroke, and diabetes. Even a modest weight loss can provide considerable cardiovascular benefits."
+  },
+  {
+    "id": "faq_129",
+    "question": "What should I know about taking medications for high cholesterol?",
+    "answer": "Medications like statins are commonly prescribed to help lower LDL cholesterol and reduce the risk of heart disease. It is crucial to take these medications exactly as prescribed by your doctor and never stop taking them without consulting your healthcare provider, even if your cholesterol levels improve, as they are often needed for long-term prevention."
+  },
+  {
+    "id": "faq_130",
+    "question": "What are the common side effects of statins?",
+    "answer": "Statins are generally well-tolerated, but common side effects can include muscle pain, headache, and digestive issues. Serious side effects are rare. If you experience new or worsening muscle pain or weakness while taking a statin, you should contact your doctor immediately."
+  },
+  {
+    "id": "faq_131",
+    "question": "What is the optimal blood pressure reading?",
+    "answer": "For most healthy adults, an optimal or normal blood pressure is considered to be less than 120/80 mmHg (millimeters of mercury). The top number (systolic) should be under 120, and the bottom number (diastolic) should be under 80. Regular monitoring and discussion with your doctor are key to personalized management."
+  },
+  {
+    "id": "faq_132",
+    "question": "What is the systolic blood pressure reading?",
+    "answer": "The systolic pressure is the top number in a blood pressure reading. It measures the force your heart exerts on the walls of your arteries each time it beats. It is the peak pressure in the arteries."
+  },
+  {
+    "id": "faq_133",
+    "question": "What is the diastolic blood pressure reading?",
+    "answer": "The diastolic pressure is the bottom number in a blood pressure reading. It measures the force exerted on the walls of the arteries between heartbeats, when the heart is at rest and filling with blood."
+  },
+  {
+    "id": "faq_134",
+    "question": "Why is regular sleep important for heart health?",
+    "answer": "Adequate, quality sleep helps your body repair and affects processes like blood pressure and blood sugar regulation. Chronic lack of sleep is linked to an increased risk of high blood pressure, obesity, and diabetes, all of which are risk factors for heart disease. Adults should generally aim for 7 to 9 hours of sleep per night."
+  },
+  {
+    "id": "faq_135",
+    "question": "Can I eat eggs if I have high cholesterol?",
+    "answer": "For most healthy people, dietary cholesterol from eggs has a less significant impact on blood cholesterol levels than saturated and trans fats. Eggs can be part of a heart-healthy diet, especially if you limit other sources of saturated fat. However, individuals with high cholesterol or a history of heart disease should consult their doctor or a dietitian about their specific diet plan."
+  },
+  {
+    "id": "faq_136",
+    "question": "What is pulse pressure and why does it matter?",
+    "answer": "Pulse pressure is the difference between your systolic (top) and diastolic (bottom) blood pressure numbers. A large pulse pressure (over 60 mmHg) can indicate stiff or damaged major blood vessels, which is associated with an increased risk of heart problems, especially in older adults."
+  },
+  {
+    "id": "faq_137",
+    "question": "What are the four chambers of the heart?",
+    "answer": "The heart has four chambers: two upper chambers called atria (the right atrium and left atrium) that receive blood, and two lower chambers called ventricles (the right ventricle and left ventricle) that pump blood out of the heart. These chambers work in coordination to circulate blood throughout the body and lungs. [Image of the four chambers of the heart]"
+  },
+  {
+    "id": "faq_138",
+    "question": "What is the function of the heart valves?",
+    "answer": "The heart has four valves that act like one-way doors, ensuring that blood flows in the correct direction through the heart's chambers and out to the body and lungs. When the valves are damaged or don't close properly, it can affect the heart's efficiency, which may be detected as a heart murmur."
+  },
+  {
+    "id": "faq_139",
+    "question": "What are 'beta-blockers' used for in heart health?",
+    "answer": "Beta-blockers are a class of medication commonly used to treat high blood pressure, irregular heart rhythms, and chest pain (angina), and are often prescribed after a heart attack. They work by blocking the effects of adrenaline, which slows the heart rate and reduces the force with which the heart muscle contracts, thereby lowering blood pressure and making the heart work less hard."
+  },
+  {
+    "id": "faq_140",
+    "question": "What is the term 'hypertensive crisis'?",
+    "answer": "A hypertensive crisis is a medical emergency where blood pressure rises quickly and severely, often measured as 180/120 mmHg or higher. It can cause damage to organs and requires immediate medical attention. If you check your blood pressure and it is in this range, you should seek emergency care even if you feel fine."
+  },
+  {
+    "id": "faq_141",
+    "question": "Does caffeine consumption affect heart health?",
+    "answer": "Moderate caffeine consumption (e.g., 2-3 cups of coffee per day) is generally not harmful to the heart for most people. However, high doses can cause a temporary increase in heart rate and blood pressure, and may trigger palpitations in sensitive individuals. People with existing arrhythmias should discuss caffeine intake with their doctor."
+  },
+  {
+    "id": "faq_142",
+    "question": "What is 'peripheral artery disease' (PAD)?",
+    "answer": "PAD is a common circulatory problem where narrowed arteries reduce blood flow to the limbs, most commonly the legs. This condition is caused by atherosclerosis and is a major risk factor for heart attack and stroke, as it indicates widespread artery disease. Symptoms can include leg pain or cramping that occurs during exercise and disappears at rest."
+  },
+  {
+    "id": "faq_143",
+    "question": "How do whole grains benefit cardiovascular health?",
+    "answer": "Whole grains (like whole wheat, oats, and brown rice) are rich in fiber, which helps lower LDL cholesterol and can help you maintain a healthy weight. They also contain vitamins and minerals that support overall health and blood vessel function. The fiber slows down the absorption of sugar, which is also beneficial for blood sugar control."
+  },
+  {
+    "id": "faq_144",
+    "question": "What is atrial fibrillation (AFib)?",
+    "answer": "Atrial fibrillation (AFib) is a type of irregular heart rhythm (arrhythmia) where the upper chambers of the heart (atria) beat chaotically and rapidly. This causes blood to pool and increases the risk of blood clots, which can lead to a stroke. Treatment focuses on controlling the heart rate, restoring normal rhythm, and preventing blood clots."
+  },
+  {
+    "id": "faq_145",
+    "question": "What is the difference between a heart attack and cardiac arrest?",
+    "answer": "A heart attack (myocardial infarction) occurs when blood flow to a part of the heart muscle is blocked, causing the muscle tissue to die. Cardiac arrest is when the heart suddenly stops beating, often due to an electrical malfunction (arrhythmia). A heart attack can *lead* to cardiac arrest, but they are separate events."
+  },
+  {
+    "id": "faq_146",
+    "question": "Can high blood pressure be cured?",
+    "answer": "While high blood pressure (hypertension) is usually a chronic condition that cannot be fully cured, it can almost always be effectively managed and controlled through lifestyle changes (diet, exercise) and, if necessary, medication. The goal is to keep blood pressure in a healthy range to prevent organ damage and cardiovascular events."
+  },
+  {
+    "id": "faq_147",
+    "question": "What is a cardiac calcium score test?",
+    "answer": "A coronary artery calcium (CAC) scan is a non-invasive CT scan that measures the amount of calcium deposits in the walls of the coronary arteries. Since calcium is a sign of plaque (atherosclerosis), a higher score indicates a greater amount of coronary artery disease and a higher risk of future heart problems."
+  },
+  {
+    "id": "faq_148",
+    "question": "What is the link between inflammation and heart disease?",
+    "answer": "Chronic inflammation in the body is believed to play a key role in the development and progression of atherosclerosis. When the walls of the arteries are inflamed, they are more susceptible to the buildup of fatty plaque. Lifestyle factors like diet, exercise, and managing chronic conditions can help reduce unnecessary inflammation."
+  },
+  {
+    "id": "faq_149",
+    "question": "How does alcohol consumption affect heart health?",
+    "answer": "Moderate alcohol consumption *may* be associated with a slightly lower risk of heart disease in some people, but excessive alcohol use significantly raises blood pressure, can lead to cardiomyopathy (heart muscle weakness), and increases the risk of stroke and arrhythmia. For heart health, it is best to drink in moderation, or not at all."
+  },
+  {
+    "id": "faq_150",
+    "question": "What is cardiomyopathy?",
+    "answer": "Cardiomyopathy is a general term for diseases of the heart muscle, where the muscle becomes enlarged, thick, or rigid. This can make it difficult for the heart to pump blood effectively. It can be caused by various factors, including high blood pressure, infections, or genetic conditions. Management focuses on treating the underlying cause and controlling symptoms."
   }
 ]
